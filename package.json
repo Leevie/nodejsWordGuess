@@ -1,0 +1,15 @@
+{
+  "name": "nodejswordguess",
+  "version": "1.0.0",
+  "description": "CLi Word Guess Game",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^6.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leevie Martin",
+  "license": "ISC"
+}
